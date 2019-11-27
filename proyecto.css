@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+  margin-top: none;
+}
+.container{
+  margin:inherit;
+  width: 100%;
+}
+.header{
+  background-color:#FFC0CB;
+  padding top: 10px;
+}
+.nav{
+  text-align: right;
+  color:#800000
+
+}

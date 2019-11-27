@@ -1,0 +1,100 @@
+<style type= "text/css">
+  html {background-color: FFCCFF ;}
+  *{
+     border-sizing: border-box; }
+    body{
+       background-color: FFCCFF;
+       overflow: auto;
+       color: purple;
+       width: 80%;
+       padding: 1 em;
+    }
+
+    header{
+      background-color:#FFC0CB;
+      color: white;
+      text-align: center;
+      padding:  0 px, 5px;
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 50px;
+    }
+
+    nav {
+      font-size: 20px;
+      background-color:9900FF;
+      font-family: 'Roboto', sans-serif;
+      align-content: right;
+      margin: 2px 2px 2px 2px;
+      padding:  5px; 5px;
+      letter-spacing: 2px;
+      float: right;
+    }
+
+    h1{
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 60px;
+      letter-spacing: 5px;
+      marging-bottom: 8%;
+      margin-top: 8%;
+      text-align: center;
+    }
+    h2{
+      font-size: 25px;
+      font-family: 'Satisfy', cursive;
+      text-align: center;
+    }
+    figure{
+      width: 55%;
+      float: left;
+      margin: 3%;
+      padding: 10px;
+    }
+
+    img{
+    width: 100%;
+      float: left;
+      padding: 10px;
+    }
+
+    article{
+      padding: 0px 20px 10px 0;
+      width: 34%;
+      float: right;
+      font-size: 18px;
+      font-family: cursive;
+      font-family: 'Dancing Script', cursive;
+    }
+    article {
+      width: 30%;
+      padding: 0px 20px;
+    }
+    .encabezado{
+      background-color: white;
+      font-style:oblique;
+      align-self: center;
+      color: Aqua;
+      font-size: 15px;
+    }
+    .container{
+      margin-top:
+    }
+    p{
+      font-family: 'Dancing Script', cursive;
+      color: purple;
+      text-indent: inherit;
+      text-align: justify;
+      font-size: 20px;
+    }
+
+
+    .pie{
+      text-align: right;
+      font-family: 'Satisfy', cursive;
+      color: purple;
+      background-color:9900FF;
+      width: 100%;
+      height: auto;
+      padding: 0px 20px 10px 0;
+
+    }
+</style>
